@@ -24,7 +24,7 @@
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/yandere-crazymita.gif?raw=true" width="384" height="192" align="right">
   </div>
 <li>
  <b>Name:</b> WibuXD54 </li>
@@ -44,7 +44,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+<img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/blue-archive-shiroko-jumping.gif?raw=true" width="128" height="128" align="left">
   </div>
 </div>
 <div>
@@ -60,7 +60,7 @@ There are many more things, but this site doesn't have a Linux badge,
 <br>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://i.imgur.com/tzYKRfd.gif">
+<img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/thanks-thanks-for-watching.gif?raw=true">
 </div>
 <hr>
 </div>
