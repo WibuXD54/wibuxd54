@@ -22,6 +22,9 @@
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
       </div>
 <div>
+  
+<br>
+  
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
 <img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/yandere-crazymita.gif?raw=true" width="384" height="192" align="right">
@@ -40,6 +43,9 @@
 <br><br><br><br>
 </div>
 <div>
+  
+<br>
+
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
  <br>
 <p>
