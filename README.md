@@ -29,17 +29,11 @@
   <div align="center">
 <img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/image/mita-cheese.jpg?raw=true" width="208" height="208" align="right">
   </div>
-<li>
- <b>Name:</b> WibuXD54 </li>
-<li>
-<b>Loves of:</b> Music, Furry, Anime
-</li>
-<li>
-<b>Gender:</b> ?
-</li>
-<li>
-<b>Hobbys:</b> Listen Music, Dev Ops, Writer, Sysadmin, Gaming.
-</li>
+  <pre>
+◈  Name:</b> WibuXD54
+◈  Gender:</b> ?
+◈  Loves of:</b> Music, Furry, Anime
+◈  Hobbys:</b> Listen Music, Dev Ops, Writer, Sysadmin, Gaming.
 <br><br><br><br>
 </div>
 <div>
