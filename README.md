@@ -27,14 +27,14 @@
   
 <h2 align="center" b> 🦊 ~ Pr@f!l3 ~ 🦊 </h2>
   <div align="center">
-<img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/image/mita-cheese.jpg?raw=true" width="206" height="206" align="right">
+<img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/image/mita-cheese.jpg?raw=true" width="228" height="228" align="right">
   </div>
   <pre>
 ◈  Name:</b> WibuXD54
 ◈  Gender:</b> ?
 ◈  Loves of:</b> Music, Furry, Anime
 ◈  Hobbys:</b> Listen Music, Dev Ops, Writer, Sysadmin, Gaming.
-<br><br><br><br>
+<br><br><br><br><br>
 </div>
 <div>
   
@@ -44,7 +44,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://raw.githubusercontent.com/WibuXD54/wibuxd54/787666ae5be18c3318844a3c5a97783c58ef0e77/hub/assets/svg/blue-archive-shiroko-jumping.svg" width="128" height="128" align="left">
+<img src="https://raw.githubusercontent.com/WibuXD54/wibuxd54/43331d3b0a1411c64f3d0b05794e61c196494178/hub/assets/svg/nyancat.svg" width="128" height="128" align="left">
     <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=wibuxd54&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
       <img src="https://github.com/WibuXD54/wibuxd54/blob/1a0376f8f2142de4d6779a9759d47ddff0f8b067/hub/assets/svg/acrade-contributions.svg" />
