@@ -1,4 +1,4 @@
-<img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/gif/Furry%20x%20Furry.gif?raw=true" width="1024" height="320">
+<img src="https://raw.githubusercontent.com/WibuXD54/wibuxd54/040b3cf2ebcd7c8d52d762469bef703982fc4502/hub/assets/svg/Furry%20x%20Furry.svg" width="1024" height="320" />
 
 <br>
 
@@ -54,8 +54,6 @@
 </div>
 <div>
   <br>
-<p align="center"> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <br>
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <br>
 There are many more things, but this site doesn't have a Linux badge, 
   so this will do for the meantime.
   
@@ -66,7 +64,7 @@ There are many more things, but this site doesn't have a Linux badge,
 <br>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/gif/thanks-thanks-for-watching.gif?raw=true">
+<img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/gif/thanks-thanks-for-watching.gif?raw=true" width="1024" height="320">
 </div>
 <hr>
 </div>
