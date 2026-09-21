@@ -27,7 +27,7 @@
   
 <h2 align="center" b> 🦊 ~ Pr@f!l3 ~ 🦊 </h2>
   <div align="center">
-<img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/image/mita-cheese.jpg?raw=true" width="204" height="204" align="right">
+<img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/image/mita-cheese.jpg?raw=true" width="214" height="214" align="right">
   </div>
   <pre>
 ◈  Name:</b> WibuXD54
