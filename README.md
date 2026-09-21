@@ -44,7 +44,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/gif/blue-archive-shiroko-jumping.gif?raw=true" width="128" height="128" align="left">
+<img src="https://raw.githubusercontent.com/WibuXD54/wibuxd54/787666ae5be18c3318844a3c5a97783c58ef0e77/hub/assets/svg/blue-archive-shiroko-jumping.svg" width="128" height="128" align="left">
     <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=wibuxd54&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
       <img src="https://github.com/WibuXD54/wibuxd54/blob/1a0376f8f2142de4d6779a9759d47ddff0f8b067/hub/assets/svg/acrade-contributions.svg" />
@@ -54,12 +54,8 @@
 </div>
 <div>
   <br>
-There are many more things, but this site doesn't have a Linux badge, 
-  so this will do for the meantime.
-  
+  <p align="center"> stylish bro ever - Yes sirr <p/>
 </p>
-<br>
-<br>
 <div>
 <br>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
