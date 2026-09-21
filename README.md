@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/WibuXD54/wibuxd54/refs/heads/main/hub/assets/columbina-genshin-impact.gif" width="1024" height="384">
+<img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/gif/Furry%20x%20Furry.gif?raw=true" width="1024" height="384">
 
 <br>
 
@@ -27,7 +27,7 @@
   
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
-<img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/yandere-crazymita.gif?raw=true" width="384" height="192" align="right">
+<img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/image/mita-cheese.jpg?raw=true" width="224" height="224" align="right">
   </div>
 <li>
  <b>Name:</b> WibuXD54 </li>
@@ -50,13 +50,13 @@
  <br>
 <p>
   <div align="center">
-<img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/blue-archive-shiroko-jumping.gif?raw=true" width="128" height="128" align="left">
+<img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/gif/blue-archive-shiroko-jumping.gif?raw=true" width="128" height="128" align="left">
   </div>
 </div>
 <div>
   <br>
-<p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
+<p align="center"> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <br>
 There are many more things, but this site doesn't have a Linux badge, 
   so this will do for the meantime.
 </p>
@@ -66,7 +66,7 @@ There are many more things, but this site doesn't have a Linux badge,
 <br>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/thanks-thanks-for-watching.gif?raw=true">
+<img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/gif/thanks-thanks-for-watching.gif?raw=true">
 </div>
 <hr>
 </div>
