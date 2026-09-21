@@ -1,4 +1,4 @@
-<img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/gif/Furry%20x%20Furry.gif?raw=true" width="1024" height="384">
+<img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/gif/Furry%20x%20Furry.gif?raw=true" width="1024" height="320">
 
 <br>
 
