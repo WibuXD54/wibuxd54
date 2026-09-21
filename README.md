@@ -3,8 +3,10 @@
 <br>
 
 <body>
-  <center>
-<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=64&pause=1000&color=2ea043&center=true&vCenter=true&width=415&height=44&lines=%20Welcome" alt="Typing headlines" />
+  <p/>
 <br>
 <div align="center">
 <!-- <a href="https://discord.com/users/964149180144709663" > -->
@@ -14,9 +16,7 @@
     <br>
   <p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
   <p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓃𝑒𝑒𝒹 𝓉𝑜 𝑒𝓍𝓅𝓁𝑜𝓇𝑒</p>
-  <p>𝐼𝓉'𝓈 𝓉𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓉𝒽𝑒 𝓇𝒶𝒾𝓁</p>
-<p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓁𝑜𝓋𝑒 𝒶𝓃𝒹 𝒶𝒹𝑜𝓇𝑒</p>
-  
+<br>
 </div>
     <div align="center">
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
@@ -25,9 +25,9 @@
   
 <br>
   
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+<h2 align="center" b> 🦊 ~ Pr@f!l3 ~ 🦊 </h2>
   <div align="center">
-<img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/image/mita-cheese.jpg?raw=true" width="224" height="224" align="right">
+<img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/image/mita-cheese.jpg?raw=true" width="208" height="208" align="right">
   </div>
 <li>
  <b>Name:</b> WibuXD54 </li>
@@ -46,11 +46,15 @@
   
 <br>
 
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<h2 align="center" b>            ~ 📇 Knowledge 📇 ~</h2>
  <br>
 <p>
   <div align="center">
 <img src="https://github.com/WibuXD54/wibuxd54/blob/main/hub/assets/gif/blue-archive-shiroko-jumping.gif?raw=true" width="128" height="128" align="left">
+    <p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=wibuxd54&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=wibuxd54&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
   </div>
 </div>
 <div>
@@ -59,6 +63,7 @@
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <br>
 There are many more things, but this site doesn't have a Linux badge, 
   so this will do for the meantime.
+  
 </p>
 <br>
 <br>
