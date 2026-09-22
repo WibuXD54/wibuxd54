@@ -33,7 +33,7 @@
 ◈  Name:</b> WibuXD54
 ◈  Gender:</b> ?
 ◈  Loves of:</b> Music, Furry, Anime
-◈  Hobbys:</b> Listen Music, Dev Ops, Writer, Sysadmin, Gaming.
+◈  Hobbys:</b> Listen Music, Dev Ops, Writer, Gaming.
 <br><br><br><br><br>
 </div>
 <div>
