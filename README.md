@@ -5,7 +5,7 @@
 <body>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=64&pause=1000&color=2ea043&center=true&vCenter=true&width=415&height=44&lines=%20Welcome" alt="Typing headlines" />
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=64&pause=1000&color=87CEFA&center=true&vCenter=true&width=415&height=44&lines=%20Welcome" alt="Typing headlines" />
   <p/>
 <br>
 <div align="center">
